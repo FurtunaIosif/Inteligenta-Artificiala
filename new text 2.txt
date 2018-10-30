@@ -1,2 +1,6 @@
 pnm
+<<<<<<< HEAD
 normal2
+=======
+normal
+>>>>>>> 281dfeda8ce23f4b269d8df80a5ec8c2f280bc3c
