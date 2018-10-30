@@ -1,7 +1,2 @@
 pnm
-<<<<<<< HEAD
-
-trash
-=======
 normal
->>>>>>> b2c31d707ba2248cbe4e684e1bc18f8d614f2bb1
